@@ -1,1 +1,1 @@
-# GemingPC
+# GamingPC
